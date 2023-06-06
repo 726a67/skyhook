@@ -22,6 +22,7 @@ do
 	if [ -f ~/.nrc ]; then source ~/.nrc; fi && \
 	n $(head -1 ${ENGINES_FILE}) --quiet && \
 	echo -e && \
-	npm install --save-exact --no-audit --silent && \
+	#npm install --save-exact --no-audit --silent && \
+	npm install --save-exact --no-audit && \
 	echo -e
 done
