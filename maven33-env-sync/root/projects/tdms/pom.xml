@@ -323,6 +323,16 @@
         <artifactId>maven-clean-plugin</artifactId>
         <version>3.2.0</version>
       </plugin>
+      <plugin>
+        <groupId>org.apache.maven.surefire</groupId>
+        <artifactId>surefire-junit4</artifactId>
+        <version>3.0.0</version>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.surefire</groupId>
+        <artifactId>surefire-junit-platform</artifactId>
+        <version>2.22.2</version>
+      </plugin>
     </plugins>
   </build>
   <reporting>
