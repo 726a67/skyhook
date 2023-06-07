@@ -20,7 +20,8 @@ do
 	cp -rp ${REQUIREMENTS_FILE} . && \
 	cp -rp ${ENGINES_FILE} . && \
 	if [ -f ~/.nrc ]; then source ~/.nrc; fi && \
-	n $(head -1 ${ENGINES_FILE}) --quiet && \
+	#n $(head -1 ${ENGINES_FILE}) --quiet && \
+	n $(head -1 ${ENGINES_FILE}) && \
 	echo -e && \
 	#npm install --save-exact --no-audit --silent && \
 	npm install --save-exact --no-audit && \
