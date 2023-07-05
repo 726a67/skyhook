@@ -1,8 +1,0 @@
-# common
-pip
-pyinstaller
-setuptools
-wheel
-
-# project specific
-pyinstaller==4.8
