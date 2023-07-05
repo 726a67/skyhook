@@ -1,3 +1,0 @@
-ubi-8-appstream-rpms
-ubi-8-baseos-rpms
-ubi-8-codeready-builder-rpms
