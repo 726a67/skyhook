@@ -1,2 +1,2 @@
 # skyhook
-Air-gapped dependency-resolving framework
+Dependency-resolving framework for air-gapped environments
