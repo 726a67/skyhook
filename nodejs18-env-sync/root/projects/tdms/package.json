@@ -12,6 +12,7 @@
     "@mui/system": "^5.13.4",
     "@mui/x-data-grid": "^5.17.19",
     "@mui/x-data-grid-premium": "6.8.0",
+    "@stomp/stompjs": "7.0.0",
     "@fontsource/roboto": "*",
     "@mui/icons-material": "*",
     "axios": "^1.4.0",
