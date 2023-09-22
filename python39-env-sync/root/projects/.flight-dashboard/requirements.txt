@@ -38,7 +38,7 @@ pytz == 2023.3.post1
 pyviz_comms == 3.0.0
 PyYAML == 6.0.1
 requests == 2.31.0
-setuptools == 58.1.0
+setuptools == 65.5.1
 six == 1.16.0
 tenacity == 8.2.3
 tornado == 6.3.3
