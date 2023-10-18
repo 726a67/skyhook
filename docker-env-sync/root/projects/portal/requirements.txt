@@ -1,5 +1,4 @@
-registry1.dso.mil/ironbank/opensource/redis/redis6:6.2.12
-registry1.dso.mil/ironbank/opensource/apache/nifi:1.15.3
-registry1.dso.mil/ironbank/opensource/apache/nifi:1.16.3
 registry1.dso.mil/ironbank/opensource/apache/nifi:1.21.0
-registry1.dso.mil/ironbank/opensource/nodejs/nodejs18:18.16.0
+registry1.dso.mil/ironbank/opensource/redis/redis6-alpine:6.2.14
+registry1.dso.mil/ironbank/opensource/nodejs/nodejs18:18.16.1
+registry1.dso.mil/ironbank/opensource/nodejs/nodejs18:18.18.2-slim
