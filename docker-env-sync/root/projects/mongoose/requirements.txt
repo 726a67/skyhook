@@ -1,1 +1,1 @@
-registry1.dso.mil/ironbank/opensource/maven/maven-openjdk-17:3.8.5-openjdk-17
+registry.access.redhat.com/ubi8/ubi:latest
