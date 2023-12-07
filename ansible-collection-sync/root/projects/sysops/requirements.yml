@@ -2,5 +2,13 @@
 collections:
 # firewalld, mount
 - ansible.posix
-# cronvar, timezone
+# cronvar, timezone, nmcli
 - community.general
+# cisco ios-xe
+- cisco.ios
+# cisco ios-xr
+- cisco.iosxr
+# cisco nx-os
+- cisco.nxos
+# cisco ucs
+- cisco.ucs
