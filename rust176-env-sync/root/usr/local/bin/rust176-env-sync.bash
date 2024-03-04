@@ -18,6 +18,6 @@ do
 	if [ ! -d ${EXPORT_DIR}/${PROJECT}/src ]; then mkdir ${EXPORT_DIR}/${PROJECT}/src; fi && \
 	if [ ! -f ${EXPORT_DIR}/${PROJECT}/src/lib.rs ]; then echo "// dummy file" > src/lib.rs; fi && \
 	cat ${REQUIREMENTS_FILE} > Cargo.toml && \
-	cargo build && \
+	cargo build ; \
 	echo -e
 done

@@ -7,6 +7,7 @@ RUN dnf install \
 --enablerepo=rhel-8-for-x86_64-appstream-rpms \
 wget \
 gcc \
+openssl \
 openssl-devel
 
 RUN cd /tmp && \
