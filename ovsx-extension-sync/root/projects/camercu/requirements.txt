@@ -1,11 +1,11 @@
 eamodio.gitlens
 ms-python.python
-#ms-python.vscode-pylance
+ms-python.vscode-pylance
 ms-toolsai.jupyter
-#charliermarsh.ruff
+charliermarsh.ruff
 redhat.ansible
 redhat.vscode-yaml
-#rust-lang.rust-analyzer
+rust-lang.rust-analyzer
 tamasfe.even-better-toml
 vscjava.vscode-java-pack
 vscode-icons-team.vscode-icons
