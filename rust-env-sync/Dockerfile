@@ -8,9 +8,11 @@ RUN dnf install \
 rust \
 cargo
 
-#RUN npm install --silent --global npm
+#COPY root/etc/pki/ca-trust/source/anchors/* /etc/pki/ca-trust/source/anchors/
 
-#RUN npm install --silent --global --prefix /usr/local ovsx
+#RUN update-ca-trust
+
+COPY root/etc/pki/tls/certs/* /etc/pki/tls/certs/
 
 COPY root/usr/local/bin/* /usr/local/bin/
 
