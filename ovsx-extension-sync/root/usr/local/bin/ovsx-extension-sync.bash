@@ -18,6 +18,7 @@ do
 
 	for EXTENSION in $(grep -v "#" ${REQUIREMENTS_FILE})
 	do
+		ovsx get ${EXTENSION} || \
 		ovsx get --target linux-x64 ${EXTENSION} && \
 		echo -e ||
 		echo -e
