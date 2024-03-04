@@ -1,0 +1,23 @@
+# common
+pip
+pyinstaller
+setuptools
+wheel
+
+# project specific
+pytest
+pytest-sugar
+pytest-cov
+pytest-mock
+pytest-approvaltests
+hypothesis
+httpx
+httpie
+ruff
+ansible
+hatch
+bandit
+safety
+pip-tools
+pre-commit
+pre-commit-hooks

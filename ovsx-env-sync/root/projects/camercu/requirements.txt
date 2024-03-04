@@ -1,0 +1,15 @@
+eamodio.gitlens
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+charliermarsh.ruff
+charliermarsh.ruff-2024.14.0
+redhat.ansible
+redhat.vscode-yaml
+rust-lang.rust-analyzer
+tamasfe.even-better-toml
+vscjava.vscode-java-pack
+vscode-icons-team.vscode-icons
+vscodevim.vim
+yzhang.markdown-all-in-one
+zhuangtongfa.material-theme
