@@ -9,7 +9,9 @@ python3.11
 
 RUN dnf install \
 --assumeyes \
-krb5-devel
+gcc \
+krb5-devel \
+python3.11-devel
 
 COPY root/usr/local/bin/* /usr/local/bin/
 

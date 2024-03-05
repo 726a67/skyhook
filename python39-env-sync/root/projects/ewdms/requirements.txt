@@ -6,7 +6,7 @@ wheel
  
 # parser
 pandas==1.2.4
-#numpy==1.20.1
+numpy==1.20.1
  
 # REWD
 #py2exe==0.13.0.1

@@ -1,0 +1,3 @@
+Codeium.codeium
+timonwong.shellcheck
+SonarSource.sonarlint-vscode
