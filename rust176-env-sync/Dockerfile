@@ -25,4 +25,6 @@ COPY root/usr/local/bin/* /usr/local/bin/
 
 RUN chmod +x /usr/local/bin/*
 
+RUN mkdir /export
+
 CMD ["rust176-env-sync.bash"]
