@@ -19,6 +19,8 @@ rm -rf /tmp/rust*
 
 COPY root/etc/pki/tls/certs/* /etc/pki/tls/certs/
 
+RUN chmod +x /usr/local/bin/*
+
 COPY root/usr/local/bin/* /usr/local/bin/
 
 RUN chmod +x /usr/local/bin/*
