@@ -1,3 +1,4 @@
 Codeium.codeium
 timonwong.shellcheck
+Trelent.trelent
 SonarSource.sonarlint-vscode
