@@ -14,4 +14,6 @@ COPY root/usr/local/bin/* /usr/local/bin/
 
 RUN chmod +x /usr/local/bin/*
 
+RUN mkdir /export
+
 CMD ["nodejs20-env-sync.bash"]
