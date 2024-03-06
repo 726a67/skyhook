@@ -5,9 +5,9 @@ setuptools
 wheel
  
 # parser
-pandas==1.2.4
-numpy==1.20.1
+pandas
+numpy
  
 # REWD
-#py2exe==0.13.0.1
-auto-py-to-exe==2.42.0
+#py2exe
+auto-py-to-exe
