@@ -1,4 +1,7 @@
 Codeium.codeium
+genuitecllc.codetogether
+rogalmic.bash-debug
+SonarSource.sonarlint-vscode
 timonwong.shellcheck
 Trelent.trelent
-SonarSource.sonarlint-vscode
+vymarkov.nodejs-devops-extension-pack
