@@ -4,6 +4,8 @@ collections:
 - ansible.posix
 # cronvar, timezone, nmcli
 - community.general
+# podman
+- containers.podman
 # cisco ios-xe
 - cisco.ios
 # cisco ios-xr
