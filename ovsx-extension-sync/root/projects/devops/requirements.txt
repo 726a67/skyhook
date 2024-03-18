@@ -1,1 +1,3 @@
 SonarSource.sonarlint-vscode
+ms-python.python
+ms-python.debugpy

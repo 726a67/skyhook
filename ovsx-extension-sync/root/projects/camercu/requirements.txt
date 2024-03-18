@@ -1,6 +1,6 @@
 eamodio.gitlens
 ms-python.python
-ms-python.vscode-pylance
+#ms-python.vscode-pylance <- only published to VS Code Marketplace due to licensing requirement
 ms-toolsai.jupyter
 charliermarsh.ruff
 redhat.ansible
