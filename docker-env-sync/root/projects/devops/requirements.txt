@@ -1,3 +1,0 @@
-docker.io/codercom/code-server
-docker.io/linuxserver/code-server
-docker.io/linuxserver/openvscode-server
