@@ -5,3 +5,4 @@ SonarSource.sonarlint-vscode
 timonwong.shellcheck
 Trelent.trelent
 vymarkov.nodejs-devops-extension-pack
+nicoespeon.abracadabra
