@@ -1,9 +1,6 @@
 registry1.dso.mil/ironbank/opensource/apache/nifi:1.21.0
 registry1.dso.mil/ironbank/opensource/redis/redis6:6.2.14
-registry1.dso.mil/ironbank/opensource/redis/redis6-alpine:6.2.14
 registry1.dso.mil/ironbank/opensource/nodejs/nodejs18:18.16.1
-registry1.dso.mil/ironbank/opensource/nodejs/nodejs18:18.18.2-slim
-registry1.dso.mil/ironbank/opensource/python:3.11.7-alpine
 registry1.dso.mil/ironbank/opensource/python:v3.8
 registry1.dso.mil/ironbank/opensource/python:v3.10.13
 registry1.dso.mil/ironbank/opensource/python:v3.11.7
